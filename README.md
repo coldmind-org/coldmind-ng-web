@@ -1,1 +1,1 @@
-# coldmind-ng-web
+# Coldmind Angular Web Site
